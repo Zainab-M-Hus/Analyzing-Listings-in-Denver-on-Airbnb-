@@ -1,4 +1,4 @@
-# Analyzing-Listings-in-Denver-on-Airbnb.
+# Analyzing Listings in Denver on Airbnb.
 # This analysis is for listings in Denver on Airbnb
 # Data scraping from https://www.airbnb.com/   =  https://insideairbnb.com/get-the-data/
 
